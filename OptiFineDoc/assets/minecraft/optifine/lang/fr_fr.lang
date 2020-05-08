@@ -21,7 +21,7 @@ of.message.af.shaders2=Veuillez désactiver les shaders pour activer cette optio
 of.message.fr.shaders1=Le rendu rapide n'est pas compatible avec les shaders.
 of.message.fr.shaders2=Veuillez désactiver les shaders pour activer cette option.
 
-of.message.an.shaders1=L'anaglyphe 3D n'est pas compatible avec les shaders.
+of.message.an.shaders1=Le 3D anaglyphe n'est pas compatible avec les shaders.
 of.message.an.shaders2=Veuillez désactiver les shaders pour activer cette option.
 
 of.message.shaders.aa1=Les shaders ne sont pas compatibles avec l'anticrénelage.
@@ -106,8 +106,8 @@ of.options.framerateLimit.vsync=VSync
 of.options.AO_LEVEL=Ombres adoucies 
 of.options.AO_LEVEL.tooltip.1=Ombres adoucies
 of.options.AO_LEVEL.tooltip.2=  Non - aucune ombre
-of.options.AO_LEVEL.tooltip.3=  50 %% - légères ombres
-of.options.AO_LEVEL.tooltip.4=  100 %% - fortes ombres
+of.options.AO_LEVEL.tooltip.3=  50 %% - ombres légères
+of.options.AO_LEVEL.tooltip.4=  100 %% - ombres accentuées
 
 options.viewBobbing.tooltip.1=Mouvements plus réalistes.
 options.viewBobbing.tooltip.2=Lors de l'utilisation du mipmap, définir sur "Non" pour de
